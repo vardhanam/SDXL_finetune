@@ -1,5 +1,3 @@
-Here is a README.md file for the provided code:
-
 # Fine-Tuning Stable Diffusion with DreamBooth
 
 This project shows how to fine-tune the Stable Diffusion XL (SDXL) model using DreamBooth and LORA (Low-Rank Adaptation) to generate customized images.
@@ -79,6 +77,3 @@ See the full code for examples.
 - [Stable Diffusion](https://github.com/stabilityai/stable-diffusion)
 - [Diffusers](https://github.com/huggingface/diffusers)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
